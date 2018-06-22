@@ -1,0 +1,27 @@
+package com.bridgeit.util;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class DBConnection {
+	
+	private static final String url = "jdbc:mysql://localhost:3306/Student";
+	private static final String user = "root";
+	private static final String password = "arpana";
+	
+	public static Connection getConnection() {
+		Connection connection = null;
+		try {
+			//driver registered
+			Class.forName("com.mysql.jdbc.Driver");
+			
+			//establish the connection
+			connection = DriverManager.getConnection(url, user, password);
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			e.printStackTrace();
+		}
+		return connection;
+	}
+}

@@ -1,0 +1,11 @@
+package com.bridgeit;
+
+import java.sql.DriverManager;
+
+public class ConnectionObj {
+
+	
+	public static void getConnection() {
+	return DriverManager.getConnection("jdbc:mysql://localhost:3306/bridgelabz","root","arpana");
+	}
+}
