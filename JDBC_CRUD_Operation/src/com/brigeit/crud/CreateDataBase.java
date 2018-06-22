@@ -1,5 +1,5 @@
 /*
- * Purpose:-Crate a DataTable in the Database
+ * Purpose:-Crate Database in MYSQL
  * 
  * Author:-Arpana Kumari
  * Version:-1.0

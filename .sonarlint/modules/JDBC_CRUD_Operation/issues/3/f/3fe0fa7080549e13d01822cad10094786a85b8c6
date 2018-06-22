@@ -1,0 +1,29 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(╜┌ЛХ8лси╝┬,HрRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(у─уЎ8лси╝┬,HсRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ш№ЖЙ8лси╝┬,HтRMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(╣▀┼д8лси╝┬,HуRMAJORZ
+CODE_SMELL
+q
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ЖЗ╣▐¤    8лси╝┬,HфRMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(├ъБ┘∙    8лси╝┬,HхRMAJORZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(▐·┘в8лси╝┬,HцRMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(и╢╤═■    8лси╝┬,HчRMAJORZ
+CODE_SMELL
+l
+squid:S1063"9Replace this use of System.out or System.err by a logger.(А┬ЧЎ8лси╝┬,HшRMAJORZ
+CODE_SMELL
+tsquid:S2259,"BA "NullPointerException" could be thrown; "stmt" is nullable here.(╞А╗╟∙    8лси╝┬,HщRMAJORZBUG

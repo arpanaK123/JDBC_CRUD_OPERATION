@@ -1,22 +1,0 @@
-
-ƒsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ü¨í³ûÿÿÿÿ8ŒÆ£°Â,HRMAJORZ
-CODE_SMELL
-p
-squid:S106G"9Replace this use of System.out or System.err by a logger.(ƒœ½İùÿÿÿÿ8ø¤à¯Â,H{RMAJORZ
-CODE_SMELL
-~squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Ôœ¹8ŒÆ£°Â,H~RMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯Æÿâ8ø¤à¯Â,HvRMAJORZ
-CODE_SMELL
-Œsquid:S1192"QUse already-defined constant 'JDBC_DRIVER' instead of duplicating its value here.(¹µÖÁüÿÿÿÿ8ø¤à¯Â,HsRCRITICALZ
-CODE_SMELL
-^squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¤à¯Â,H}RMINORZVULNERABILITY
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(›ıÚüÿÿÿÿ8ø¤à¯Â,HtRMAJORZ
-CODE_SMELL
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(ıçâÊûÿÿÿÿ8ø¤à¯Â,HuRMAJORZ
-CODE_SMELL
-bsquid:S00108>")Either remove or fill this block of code.(²¿ıÿÿÿÿ8ø¤à¯Â,H|RMAJORZ
-CODE_SMELL

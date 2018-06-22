@@ -1,21 +1,0 @@
-
-isquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿHVRMINORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûÈŸª8¦‹ëÂ,HWRMAJORZ
-CODE_SMELL
-ssquid:UselessImportCheck"3Remove this unused import 'java.sql.DriverManager'.(“£°8‘èÂ,HSRMINORZ
-CODE_SMELL
-p
-squid:S106)"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¯•Â,HTRMAJORZ
-CODE_SMELL
-p
-squid:S106!"9Replace this use of System.out or System.err by a logger.(ª°Âóùÿÿÿÿ8¦‹ëÂ,HXRMAJORZ
-CODE_SMELL
-p
-squid:S106 "9Replace this use of System.out or System.err by a logger.(—üá°şÿÿÿÿ8¦‹ëÂ,HQRMAJORZ
-CODE_SMELL
-ssquid:S2259,"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8ÓìÂ,HURMAJORZBUG
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(ºä´¤ûÿÿÿÿ8¯•Â,HRRMAJORZ
-CODE_SMELL

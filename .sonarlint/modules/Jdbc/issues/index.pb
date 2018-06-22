@@ -1,7 +1,11 @@
 
-L
-src/com/bridgeit/Create.java,2/f/2f5ce9af0f60c6a3a06459e38182003232c2fbe7
-S
-#src/com/bridgeit/ConnectionObj.java,6/e/6e89794faa201cda260576819b2a0b348a0804b6
-P
- src/com/bridgeit/InsertData.java,1/3/138a814d4937e3a174ee6a840fec5ba7a4902c39
+W
+'src/com/bridgeit/util/DBConnection.java,c/f/cfefb69064897fee17967f6156a419ae2784378e
+X
+(src/com/brigeit/crud/CreateDataBase.java,3/e/3e533e4c8c1d6d6710e9676412186930324bc35d
+T
+$src/com/brigeit/crud/DeleteData.java,b/4/b400d2b2e7ad080d1a04d3f34f9632d15db20a54
+V
+&src/com/brigeit/crud/ReadDatabase.java,b/7/b7f574e4a534132b0f4ce11f0ae792358785a1bf
+X
+(src/com/brigeit/crud/UpdateDatabase.java,4/6/469c248b3097cdbfe48878790c4823aa486a4081
