@@ -9,3 +9,9 @@ V
 &src/com/brigeit/crud/ReadDatabase.java,b/7/b7f574e4a534132b0f4ce11f0ae792358785a1bf
 U
 %src/com/brigeit/crud/ReadOneData.java,3/f/3fe0fa7080549e13d01822cad10094786a85b8c6
+T
+$src/com/brigeit/crud/DeleteData.java,b/4/b400d2b2e7ad080d1a04d3f34f9632d15db20a54
+S
+#src/com/brigeit/crud/DropTable.java,6/9/69df20098137c0700892023c30fd3841a1380fcb
+X
+(src/com/brigeit/crud/UpdateDatabase.java,4/6/469c248b3097cdbfe48878790c4823aa486a4081

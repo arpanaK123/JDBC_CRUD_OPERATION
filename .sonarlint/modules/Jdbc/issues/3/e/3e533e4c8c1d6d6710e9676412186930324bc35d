@@ -1,20 +1,20 @@
 
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(½Ú‹•H²RMAJORZ
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆõÌûÿÿÿÿH†RMAJORZ
 CODE_SMELL
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(ãÄãöH³RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ú‹•H‡RMAJORZ
 CODE_SMELL
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(èü†‰H´RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(èü†‰HˆRMAJORZ
 CODE_SMELL
 j
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÆõÌûÿÿÿÿHµRMAJORZ
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH‰RMAJORZ
 CODE_SMELL
-j
-squid:S106!"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH¶RMAJORZ
+msquid:S2259$"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»ÇùÿÿÿÿHŠRMAJORZBUG
+e
+squid:S106+"9Replace this use of System.out or System.err by a logger.(€Â—öH‹RMAJORZ
 CODE_SMELL
 e
-squid:S106+"9Replace this use of System.out or System.err by a logger.(€Â—öH·RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÄãöHŒRMAJORZ
 CODE_SMELL
-msquid:S2259$"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»ÇùÿÿÿÿH¸RMAJORZBUG

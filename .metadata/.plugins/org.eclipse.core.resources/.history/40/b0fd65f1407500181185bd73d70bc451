@@ -1,9 +1,0 @@
-package com.bridgeit;
-
-public class Connection {
-
-	
-	public void getConnection() {
-		
-	}
-}

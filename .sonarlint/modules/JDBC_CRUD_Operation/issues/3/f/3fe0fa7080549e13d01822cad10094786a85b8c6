@@ -1,29 +1,29 @@
 
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(╜┌ЛХ8лси╝┬,HрRMAJORZ
+squid:S106("9Replace this use of System.out or System.err by a logger.(╥║°╔8лси╝┬,HэRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(у─уЎ8лси╝┬,HсRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(╜┌ЛХ8лси╝┬,HяRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ш№ЖЙ8лси╝┬,HтRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(у─уЎ8лси╝┬,HЄRMAJORZ
 CODE_SMELL
 l
-squid:S106 "9Replace this use of System.out or System.err by a logger.(╣▀┼д8лси╝┬,HуRMAJORZ
+squid:S106:"9Replace this use of System.out or System.err by a logger.(А┬ЧЎ8лси╝┬,HєRMAJORZ
 CODE_SMELL
 q
-squid:S106!"9Replace this use of System.out or System.err by a logger.(ЖЗ╣▐¤    8лси╝┬,HфRMAJORZ
-CODE_SMELL
-q
-squid:S106""9Replace this use of System.out or System.err by a logger.(├ъБ┘∙    8лси╝┬,HхRMAJORZ
+squid:S1060"9Replace this use of System.out or System.err by a logger.(и╢╤═■    8лси╝┬,HыRMAJORZ
 CODE_SMELL
 l
-squid:S106#"9Replace this use of System.out or System.err by a logger.(▐·┘в8лси╝┬,HцRMAJORZ
-CODE_SMELL
-q
-squid:S106)"9Replace this use of System.out or System.err by a logger.(и╢╤═■    8лси╝┬,HчRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ш№ЖЙ8лси╝┬,HъRMAJORZ
 CODE_SMELL
 l
-squid:S1063"9Replace this use of System.out or System.err by a logger.(А┬ЧЎ8лси╝┬,HшRMAJORZ
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Ю╖Пп8лси╝┬,HЁRMAJORZ
 CODE_SMELL
-tsquid:S2259,"BA "NullPointerException" could be thrown; "stmt" is nullable here.(╞А╗╟∙    8лси╝┬,HщRMAJORZBUG
+l
+squid:S106*"9Replace this use of System.out or System.err by a logger.(╢цао8лси╝┬,HьRMAJORZ
+CODE_SMELL
+tsquid:S22593"BA "NullPointerException" could be thrown; "stmt" is nullable here.(╞А╗╟∙    8лси╝┬,HюRMAJORZBUG
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(р╣╓╪8лси╝┬,HёRMAJORZ
+CODE_SMELL

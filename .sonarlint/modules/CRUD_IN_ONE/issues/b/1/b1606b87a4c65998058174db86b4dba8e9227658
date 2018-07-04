@@ -1,0 +1,96 @@
+
+_squid:S1481;"+Remove this unused "result" local variable.(›ôíı8”Ú¥Æ,H€RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü¤Ì…ùÿÿÿÿ8â ï¤Æ,H­RMAJORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8”Ú¥Æ,HùRMAJORZ
+CODE_SMELL
+†
+squid:S1287"LEnd this switch case with an unconditional break, return or throw statement.(ğÁ–Óûÿÿÿÿ8”Ú¥Æ,HõRBLOCKERZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÉÉàûÿÿÿÿ8â ï¤Æ,H®RMAJORZ
+CODE_SMELL
+squid:S1192"WDefine a constant instead of duplicating this literal "connection established" 3 times.(ãÄãö8”Ú¥Æ,HòRCRITICALZ
+CODE_SMELL
+fsquid:S11997"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8”Ú¥Æ,HóRMINORZ
+CODE_SMELL
+fsquid:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8îÚ¶¥Æ,HÍRMINORZ
+CODE_SMELL
+l
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ãÄãö8”Ú¥Æ,H÷RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÄãö8îÚ¶¥Æ,HÒRMAJORZ
+CODE_SMELL
+tsquid:S2259i"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8îÚ¶¥Æ,HÛRMAJORZBUG
+p"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¨ÕÉ8îÚ¶¥Æ,HÌRCRITICALZ
+CODE_SMELL
+fsquid:S1199U"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8”Ú¥Æ,HôRMINORZ
+CODE_SMELL
+l
+squid:S106>"9Replace this use of System.out or System.err by a logger.(½Ú‹•8”Ú¥Æ,HöRMAJORZ
+CODE_SMELL
+l
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(€Â—ö8”Ú¥Æ,HúRMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ï¦8îÚ¶¥Æ,HÔRMAJORZ
+CODE_SMELL
+l
+squid:S106p"9Replace this use of System.out or System.err by a logger.(€Â—ö8”Ú¥Æ,HÿRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(•ÙõÙüÿÿÿÿ8îÚ¶¥Æ,HÓRMAJORZ
+CODE_SMELL
+l
+squid:S106_"9Replace this use of System.out or System.err by a logger.(èü†‰8”Ú¥Æ,HıRMAJORZ
+CODE_SMELL
+‰squid:S1192"RDefine a constant instead of duplicating this literal "driver registered" 3 times.(½Ú‹•8”Ú¥Æ,HğRCRITICALZ
+CODE_SMELL
+l
+squid:S1065"9Replace this use of System.out or System.err by a logger.(€Â—ö8îÚ¶¥Æ,HØRMAJORZ
+CODE_SMELL
+q
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8îÚ¶¥Æ,H×RMAJORZ
+CODE_SMELL
+l
+squid:S106A"9Replace this use of System.out or System.err by a logger.(èü†‰8”Ú¥Æ,HøRMAJORZ
+CODE_SMELL
+l
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ãÄãö8”Ú¥Æ,HüRMAJORZ
+CODE_SMELL
+q
+squid:S106f"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8”Ú¥Æ,HşRMAJORZ
+CODE_SMELL
+_squid:S1481Y"+Remove this unused "result" local variable.(›ôíı8”Ú¥Æ,HRMINORZ
+CODE_SMELL
+ˆsquid:S1192"QDefine a constant instead of duplicating this literal "create statement" 3 times.(èü†‰8”Ú¥Æ,HïRCRITICALZ
+CODE_SMELL
+tsquid:S2259."BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8”Ú¥Æ,HƒRMAJORZBUG
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(±õ©Ìûÿÿÿÿ8îÚ¶¥Æ,HÕRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¤™÷ÿÿÿÿÿ8û©„¥Æ,H³RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(èü†‰8îÚ¶¥Æ,HÑRMAJORZ
+CODE_SMELL
+tsquid:S2259J"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»Çùÿÿÿÿ8”Ú¥Æ,H‚RMAJORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ú‹•8îÚ¶¥Æ,HĞRMAJORZ
+CODE_SMELL
+†
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(·ÿ½äûÿÿÿÿ8îÚ¶¥Æ,HÎRBLOCKERZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ï„¡ï8îÚ¶¥Æ,HÖRMAJORZ
+CODE_SMELL
+l
+squid:S106\"9Replace this use of System.out or System.err by a logger.(½Ú‹•8”Ú¥Æ,HûRMAJORZ
+CODE_SMELL
+squid:S11925"YDefine a constant instead of duplicating this literal "Operation Successfull..." 3 times.(€Â—ö8”Ú¥Æ,HñRCRITICALZ
+CODE_SMELL

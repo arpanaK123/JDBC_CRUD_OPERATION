@@ -27,7 +27,7 @@ public class DeleteData {
 			stmt = con.createStatement();
 			System.out.println("create statement");
 
-			String sql = "DELETE FROM STUDENT WHERE id = 3";
+			String sql = "DELETE FROM student WHERE id = 4";
 			stmt.executeUpdate(sql);
 		}
 

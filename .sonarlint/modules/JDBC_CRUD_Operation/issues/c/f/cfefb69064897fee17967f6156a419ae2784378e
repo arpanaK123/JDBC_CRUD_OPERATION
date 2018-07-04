@@ -1,4 +1,4 @@
 
-gsquid:S1118":Add a private constructor to hide the implicit public one.(Æ†©˛HÆRMAJORZ
+ásquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(‡œ€ÒHúRBLOCKERZVULNERABILITY
+gsquid:S1118":Add a private constructor to hide the implicit public one.(Æ†©˛HùRMAJORZ
 CODE_SMELL
-ásquid:S2068"U'PASSWORD' detected in this expression, review this potentially hardcoded credential.(‡œ€ÒHØRBLOCKERZVULNERABILITY

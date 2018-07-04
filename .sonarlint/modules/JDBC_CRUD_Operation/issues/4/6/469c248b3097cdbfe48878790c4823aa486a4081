@@ -1,0 +1,19 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ú‹•HÞRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÄãöHßRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(èü†‰HàRMAJORZ
+CODE_SMELL
+j
+squid:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿHáRMAJORZ
+CODE_SMELL
+e
+squid:S106,"9Replace this use of System.out or System.err by a logger.(€Â—öHâRMAJORZ
+CODE_SMELL
+Xsquid:S1481"+Remove this unused "result" local variable.(›ôíýHãRMINORZ
+CODE_SMELL
+msquid:S2259%"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»ÇùÿÿÿÿHäRMAJORZBUG

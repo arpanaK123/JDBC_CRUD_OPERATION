@@ -27,7 +27,7 @@ public class ReadDatabase {
 			stmt = con.createStatement();
 			System.out.println("create statement");
 
-			result = stmt.executeQuery("select * from STUDENT");
+			result = stmt.executeQuery("select * from student");
 			while (result.next()) {
 				System.out.println(result.getInt("ID"));
 				System.out.println(result.getString("FIRST_NAME"));
